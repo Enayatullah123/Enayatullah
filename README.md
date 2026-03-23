@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student | Mobile & Web Developer.<br>Flutter developer passionate about building useful apps.<br>Aspiring software developer sharing projects on GitHub.<br>Learning, building, and improving through code.
+I'm Enayatullah Omari | Mobile & Web Developer.<br>Flutter developer passionate about building useful apps.<br>Aspiring software developer sharing projects on GitHub.<br>Learning, building, and improving through code.
 
 
 ## 🌐 Socials:
