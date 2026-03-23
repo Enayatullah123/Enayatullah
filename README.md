@@ -1,6 +1,11 @@
-# 💫 About Me:
-I'm Enayatullah Omari | Mobile & Web Developer.<br>Flutter developer passionate about building useful apps.<br>Aspiring software developer sharing projects on GitHub.<br>Learning, building, and improving through code.
+<h1 align="center">Hi 👋, I'm Enayatullah Omari</h1>
+<h3 align="center">Flutter Mobile App Developer | Web Developer</h3>
 
+<p align="center">
+🌍 From Afghanistan | Studying in Pakistan <br>
+📱 Passionate about Mobile App Development <br>
+🚀 Currently learning AI and Full Stack Development
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/enayatullahomari) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1ANjh817hx/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/omarienayatullah?igsh=MTVpZjJ6amJoaHUwNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enayatullah-omari-891b3226b/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Enayatullah Omari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enayatullahomari226@gmail.com) 
