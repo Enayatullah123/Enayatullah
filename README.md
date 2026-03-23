@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Enayatullah Omari</h1>
-<h3 align="center">Flutter Mobile App Developer | Web Developer</h3>
+<h3 align="center">A passionate Flutter Mobile App Developer & Web Developer</h3>
 
 <p align="center">
-🌍 From Afghanistan | Studying in Pakistan <br>
+🌍 From Afghanistan <br>
 📱 Passionate about Mobile App Development <br>
-🚀 Currently learning AI and Full Stack Development
+🚀 AI and Full Stack Development
 </p>
 
 ### 👨‍💻 About Me
@@ -35,7 +35,7 @@
 ### 🛠 Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,mongodb,mysql,postgres,react,html,css,js,bootstrap,tailwind,python,java,git,github,vscode,docker" />
 </p>
 
 # 📊 GitHub Stats:
